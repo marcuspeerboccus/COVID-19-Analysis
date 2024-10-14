@@ -7,5 +7,4 @@
 7) Repeat steps #4 and #5
 8) Click on the file "medical_COVID_19.ipynb" and select "Open"
 9) Run the cells of "medical_COVID_19.ipynb" from top to bottom
-10)
-11) [Capstone Report MAD2502.pdf](https://github.com/user-attachments/files/17368074/Capstone.Report.MAD2502.pdf)
+10) Full Report -> [Capstone Report MAD2502.pdf](https://github.com/user-attachments/files/17368074/Capstone.Report.MAD2502.pdf)
